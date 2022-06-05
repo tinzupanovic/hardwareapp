@@ -1,5 +1,7 @@
 # Application made with Spring Boot and Angular
 
+Only uploaded src folder from Angular due to its size.
+
 Application that uses Spring Boot following MVC REST design for backend and Angular for frontend.
 Main objects in the application are hardware and review which we can create, read, update and delete.
 Backend is separated into controllers, services and repositories.
