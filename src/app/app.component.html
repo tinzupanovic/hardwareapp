@@ -1,0 +1,19 @@
+<div class="container-fluid">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <div ngbDropdown class="d-inline-block">
+        <div>{{'start.selected' | translate}} </div><button class="btn btn-outline-secondary" id="languageDropdown" ngbDropdownToggle>{{currentLanguage}}</button>
+        <div ngbDropdownMenu aria-labelledby="languageDropdown">
+          <button class="buttons" ngbDropdownItem (click)="onLanguageChange('hr')">{{'language.croatian' | translate}}</button>
+          <button class="buttons" ngbDropdownItem (click)="onLanguageChange('en')">{{'language.english' | translate}}</button>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <div class="w-100 text-end" *ngIf="authenticationService.isUserAuthenticated()">{{'start.tolog' | translate}}
+    <strong>{{authenticationService.getAuthenticatedUserUsername()}}</strong> | <a href="#" (click)="logout()" class="link-primary">{{'start.logout' | translate}}</a>
+  </div>
+  <div class="m-5">
+    <router-outlet></router-outlet>
+  </div>
+</div>

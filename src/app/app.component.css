@@ -1,0 +1,20 @@
+button {
+    margin-right: 10px;
+    width: 100px;
+    background-color: #efefef;
+}
+
+span {
+    box-sizing: border-box;
+    
+}
+
+#languageDropdown {
+    margin-bottom: 10px;
+    width: 50px;
+}
+
+button:hover {
+    color: #efefef;
+    background-color: #333;
+}

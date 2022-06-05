@@ -1,0 +1,64 @@
+{
+    "language": {
+        "croatian": "Hrvatski",
+        "english": "Engleski"
+    },
+    "start": {
+        "tolog": "Prijavljeni ste kao",
+        "logout": "Odjava",
+        "selected": "Trenutno odabrani jezik je"
+    },
+    "navbar": {
+        "username": "Korisničko ime",
+        "role": "Uloga",
+        "login": "Prijava",
+        "logout": "Odjava"
+    },
+    "login": {
+        "bigTitle": "Hardver Aplikacija",
+        "smallTitle": "HV AP",
+        "title": "Prijava",
+        "username": "Korisničko ime",
+        "password": "Lozinka",
+        "loginButton": "Prijava",
+        "loginError": "Neuspješna prijava! Provjerite podatke i pokušajte ponovno.",
+        "placeholderOne": "Unesite korisničko ime",
+        "placeholderTwo": "Unesite lozinku"
+    },
+    "home": {
+        "nav": "Hardveri"
+    },
+    "notfound": {
+        "not": "Tražena stranica nije pronađena",
+        "return": "Povratak na početnu stranicu"
+    },
+    "hardware": {
+        "title": "Hardver",
+        "new": "Unesi novi hardver"
+    },
+    "newhardware": {
+        "title": "Unos Hardvera",
+        "titleUnder": "Unesi novi hardver",
+        "code": "Šifra",
+        "name": "Naziv",
+        "type": "Tip:",
+        "storage": "Pohrana podataka",
+        "other": "Ostalo",
+        "stock": "Broj komada na stanju",
+        "price": "Cijena",
+        "enter": "Unesi hardver",
+        "back": "Povratak"
+    },
+    "detail": {
+        "detail": "Detalji o",
+        "price": "Cijena",
+        "rate": "Ovaj hardver se može kupiti na 6 rata",
+        "review": "Recenzije za ovaj hardver",
+        "reviewNone": "Trenutno nema recenzija za ovaj hardver",
+        "back": "Povratak"
+    },
+    "forbidden": {
+        "access": "Nemate pravo pristupa traženoj stranici",
+        "return": "Povratak na početnu stranicu"
+    }
+}

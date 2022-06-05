@@ -1,0 +1,65 @@
+{
+    "language": {
+        "croatian": "Croatian",
+        "english": "English"
+    },
+    "start": {
+        "tolog": "Logged in as",
+        "logout": "Logout",
+        "selected": "Currently selected language is"
+    },
+    "navbar": {
+        "username": "Username",
+        "role": "Role",
+        "login": "Login",
+        "logout": "Logout"
+    },
+    "login": {
+        "bigTitle": "Hardware Application",
+        "smallTitle": "HW APP",
+        "title": "Login",
+        "username": "Username",
+        "password": "Password",
+        "loginButton": "Login",
+        "loginError": "Login failed! Check your credentials and try again.",
+        "placeholderOne": "Enter username",
+        "placeholderTwo": "Enter password"
+    },
+    "home": {
+        "nav": "Hardware"
+    },
+    "notfound": {
+        "not": "Searched page not found",
+        "return": "Return to home page"
+    },
+    "hardware": {
+        "title": "Hardware",
+        "new": "Enter new hardware"
+    },
+    "newhardware": {
+        "title": "Hardware entry",
+        "titleUnder": "Enter new hardware",
+        "code": "Code",
+        "name": "Name",
+        "type": "Type:",
+        "storage": "Storage",
+        "other": "Other",
+        "stock": "Units in stock",
+        "price": "Price",
+        "enter": "Enter hardware",
+        "back": "Go back"
+    },
+    "detail": {
+        "detail": "Details about",
+        "price": "Price",
+        "rate": "This hardware can be purchased in 6 installments",
+        "review": "Reviews for this hardware",
+        "reviewNone": "There are currently no reviews for this hardware",
+        "back": "Go back"
+    },
+    "forbidden": {
+        "access": "You do not have permission to access the requested page",
+        "return": "Return to home page"
+    }
+}
+    
