@@ -1,4 +1,4 @@
-# Application made with Spring Boot and Angular
+# Application made with Spring Boot and Angular for college project
 
 Only uploaded src folder from Angular due to its size.
 
