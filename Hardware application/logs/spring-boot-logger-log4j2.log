@@ -1,0 +1,14 @@
+2022-04-01 17:07:24,230 INFO o.s.b.StartupInfoLogger [main] Starting LabosApplication using Java 17.0.1 on DESKTOP-A13AAB4 with PID 13636 (D:\1Faks\3. godina\6. semestar\WEBJAVA\labos\target\classes started by tinzu in D:\1Faks\3. godina\6. semestar\WEBJAVA\labos)
+2022-04-01 17:07:24,238 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 17:07:24,838 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 17:07:24,851 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 17:07:24,852 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-04-01 17:07:24,854 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 17:07:24,957 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-04-01 17:07:24,958 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 686 ms
+2022-04-01 17:07:25,220 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 17:07:25,236 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 17:07:25,246 INFO o.s.b.StartupInfoLogger [main] Started LabosApplication in 1.353 seconds (JVM running for 2.093)
+2022-04-01 17:07:31,997 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 17:07:31,998 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-04-01 17:07:31,999 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
